@@ -4,6 +4,9 @@ headless: true
 weight: 5
 author: admin
 widget_id: TITLE?
+design:
+  background:
+    color: "#f1e1cb"
 ---
 ## O﻿lá! Daqui é o Francisco e a Rita e gostávamos de vos convidar para o nosso casamento.
 
