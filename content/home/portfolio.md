@@ -22,7 +22,7 @@ design:
   view: masonry
   flip_alt_rows: true
   background:
-    color: "#f1e1cb"
+    color: rgba(255, 255, 255, 0)
     text_color_light: true
   spacing:
     padding:
