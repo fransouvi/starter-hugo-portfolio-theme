@@ -5,8 +5,7 @@ headless: true
 weight: 20
 title: ""
 subtitle: ""
-content:
-  
+
 
 design:
   columns: "1"
