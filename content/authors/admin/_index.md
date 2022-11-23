@@ -7,6 +7,7 @@ bio: My research interests include distributed robotics, mobile computing and
 superuser: true
 status:
   icon: 
+<!---
 social:
   - icon: envelope
     icon_pack: fas
@@ -18,6 +19,7 @@ social:
     icon_pack: fab
     link: https://instagram.com/geocushen
 ---
+-->
 
 Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
