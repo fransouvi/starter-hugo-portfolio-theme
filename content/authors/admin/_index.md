@@ -1,7 +1,7 @@
 ---
 title: "Casamento Rita e Francisco "
 role: ""
-avatar_filename: whatsapp-image-2022-11-23-at-15.14.45.jpeg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 superuser: true
