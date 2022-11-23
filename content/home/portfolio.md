@@ -5,7 +5,12 @@ headless: true
 weight: 20
 title: ""
 subtitle: ""
-
+content:
+  page_type: project
+  filter_default: 0
+  filter_button:
+    - name: 
+      tag: "*"
 
 design:
   columns: "1"
