@@ -6,7 +6,7 @@ author: admin
 widget_id: TITLE?
 design:
   background:
-    color: "#f1e1cb"
+    color: rgba(255, 255, 255, 0)
 ---
 ## O﻿lá! Daqui é o Francisco e a Rita e gostávamos de vos convidar para o nosso casamento.
 
