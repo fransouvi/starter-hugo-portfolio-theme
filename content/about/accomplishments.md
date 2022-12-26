@@ -25,14 +25,14 @@ date_format: 1:06
 item:
   - date_end: ''
     date_start: '2030-03-25'
-    description: Localização: <a href="https://www.google.com/maps/place/Convento+e+Igreja+de+S%C3%A3o+Francisco/@39.0538397,-9.0123836,18.12z/data=!4m5!3m4!1s0xd18d9ffc4765c45:0x247319766d6b7083!8m2!3d39.0538259!4d-9.0122711">maps</a>.
+    description: Localização <a href="https://www.google.com/maps/place/Convento+e+Igreja+de+S%C3%A3o+Francisco/@39.0538397,-9.0123836,18.12z/data=!4m5!3m4!1s0xd18d9ffc4765c45:0x247319766d6b7083!8m2!3d39.0538259!4d-9.0122711">aqui</a>.
     organization: Alenquer, Alenquer
     organization_url: 
     title: Igreja de São Francisco
     url: ''
   - date_end: ''
-    date_start: '2000-05-01' pm
-    description: Localização: <a href="https://www.google.com/maps/place/Solar+de+Pancas/@39.0565041,-9.0351824,16.36z/data=!4m5!3m4!1s0xd18d0b58d430eed:0x4dcf9a97e6d77b56!8m2!3d39.0567442!4d-9.0330927">maps</a>.
+    date_start: '2000-05-01'
+    description: Localização <a href="https://www.google.com/maps/place/Solar+de+Pancas/@39.0565041,-9.0351824,16.36z/data=!4m5!3m4!1s0xd18d0b58d430eed:0x4dcf9a97e6d77b56!8m2!3d39.0567442!4d-9.0330927">aqui</a>.
     organization: Porto da Luz, Alenquer
     organization_url: 
     title: Solar de Pancas
