@@ -26,11 +26,11 @@ experience:
   - title: Casamento
     company: Igreja de São Francisco
     company_url: ''
-    company_logo:
+    company_logo: ''
     # org-gc
     location: Alenquer
-    date_start: '2021-01-01'
-    date_end: ''
+#    date_start: '2021-01-01'
+#    date_end: ''
     description: 
 # |2-
 #        Responsibilities include:
@@ -42,7 +42,7 @@ experience:
   - title: Copo de água
     company: Solar de Pancas
     company_url: ''
-    company_logo: 
+    company_logo: ''
 # org-x
     location: California
 #    date_start: '2016-01-01'
