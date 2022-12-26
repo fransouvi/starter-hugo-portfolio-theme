@@ -27,8 +27,8 @@ experience:
     company_url: ''
 #    company_logo: org-gc
     location: Alenquer
-    date_start: ''
-    date_end: 
+    time_start: ''
+    time_end: 
     description: 
 
 design:
