@@ -9,4 +9,4 @@ main:
     weight: 10
   - name: Informações
     url: about/
-    weight: 5
+    weight: 20
