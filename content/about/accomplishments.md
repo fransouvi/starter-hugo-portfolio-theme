@@ -32,7 +32,7 @@ item:
     url: ''
   - date_end: ''
     date_start: '2000-05-01'
-    description: Localização: <a href="https://www.google.com/maps/place/Solar+de+Pancas/@39.0565041,-9.0351824,16.36z/data=!4m5!3m4!1s0xd18d0b58d430eed:0x4dcf9a97e6d77b56!8m2!3d39.0567442!4d-9.0330927">link</a>.
+    description: Localização: <a href=" https://www.google.com/maps/place/Solar+de+Pancas/@39.0565041,-9.0351824,16.36z/data=!4m5!3m4!1s0xd18d0b58d430eed:0x4dcf9a97e6d77b56!8m2!3d39.0567442!4d-9.0330927 ">link</a>.
     organization: Porto da Luz, Alenquer
     organization_url: 
     title: Solar de Pancas
