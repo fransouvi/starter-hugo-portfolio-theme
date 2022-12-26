@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-time_format: 03 3 15 
+time_format: 3 15 
 # Jan 2006
 
 # Experiences.
