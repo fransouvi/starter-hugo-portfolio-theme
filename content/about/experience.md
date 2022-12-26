@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+time_format: 15 04
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -27,8 +27,8 @@ experience:
     company_url: ''
 #    company_logo: org-gc
     location: Alenquer
-    date_start: '2021-01-01'
-    date_end: '2021-01-01'
+    time_start: '15:30'
+    time_end: '16:30'
     description: 
 
   - title: Copo de água
@@ -36,8 +36,8 @@ experience:
     company_url: ''
 #    company_logo: org-x
     location: Alenquer
-    date_start: '2021-01-01'
-    date_end: '2021-01-01'
+    time_start: '17:00'
+    time_end: '20:00'
     description: 
     
   - title: Jantar
@@ -45,8 +45,8 @@ experience:
     company_url: ''
 #    company_logo: org-x
     location: Alenquer
-    date_start: '2021-01-01'
-    date_end: '2021-01-01'
+    time_start: '20:00'
+    time_end: '22:30'
     description: 
     
   - title: Festa!
@@ -54,7 +54,7 @@ experience:
     company_url: ''
 #    company_logo: org-x
     location: Alenquer
-    date_start: '2021-01-01'
+    date_start: '22:30'
     date_end: 
     description:  
     
