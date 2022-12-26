@@ -15,8 +15,6 @@ social:
 ---
 
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Aqui vamos escrever um texto um pouco mais extenso, relativo ao casamento, em que explicamos com mais detalhe o programa. O casamento, domingo dia 20 de Agosto de 2023, começa às 15.30 na igreja de S. Francisco. Segue-se a receção no Solar de Pancas, no qual irá decorrer o copo de água, jantar, com variados momentos musicais. Após o jantar, a festa irá prolongar-se noite fora. Esperamos poder partilhar concosco este momento tão especial para nós.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+Mais informações encontram-se abaixo nesta página.
