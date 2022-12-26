@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 01 06
+date_format: 1:06
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -25,14 +25,14 @@ date_format: 01 06
 item:
   - certificate_url: https://www.google.com/maps/place/Convento+e+Igreja+de+S%C3%A3o+Francisco/@39.0538397,-9.0123836,18.12z/data=!4m5!3m4!1s0xd18d9ffc4765c45:0x247319766d6b7083!8m2!3d39.0538259!4d-9.0122711
     date_end: ''
-    date_start: '2030-15-25'
+    date_start: '2030-03-25'
     description: Link---
     organization: Alenquer, Alenquer
     organization_url: 
     title: Igreja de São Francisco
     url: ''
   - date_end: ''
-    date_start: '2000-17-01'
+    date_start: '2000-05-01'
     description: Link---.
     organization: Porto da Luz, Alenquer
     organization_url: 
