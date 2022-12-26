@@ -25,30 +25,21 @@ experience:
   - title: Casamento
     company: Igreja de São Francisco
     company_url: ''
-#    company_logo: ''
-# org-gc
+#    company_logo: org-gc
     location: Alenquer
-    date_start: Jan 2006
-    date_end: 
+    date_start: '2021-01-01'
+    date_end: '2021-01-01'
     description: 
-# |2-
-#        Responsibilities include:
-#        
-#        * Analysing
-#        * Modelling
-#        * Deploying
 
   - title: Copo de água
     company: Solar de Pancas
     company_url: ''
-#    company_logo: ''
-# org-x
+#    company_logo: org-x
     location: Alenquer
-    date_start: Jan 2006
-    date_end: 
+    date_start: '2021-01-01'
+    date_end: '2021-01-01'
     description: 
-# Taught electronic engineering and researched semiconductor physics.
-
+    
 design:
   columns: '1'
 ---
