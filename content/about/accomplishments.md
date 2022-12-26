@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: Jan 06
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://www.google.com/maps/place/Convento+e+Igreja+de+S%C3%A3o+Francisco/@39.0538397,-9.0123836,18.12z/data=!4m5!3m4!1s0xd18d9ffc4765c45:0x247319766d6b7083!8m2!3d39.0538259!4d-9.0122711
     date_end: ''
     date_start: '2021-01-25'
     description: Link---
