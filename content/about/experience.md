@@ -40,6 +40,24 @@ experience:
     date_end: '2021-01-01'
     description: 
     
+  - title: Jantar
+    company: Solar de Pancas
+    company_url: ''
+#    company_logo: org-x
+    location: Alenquer
+    date_start: '2021-01-01'
+    date_end: '2021-01-01'
+    description: 
+    
+  - title: Festa!
+    company: Solar de Pancas
+    company_url: ''
+#    company_logo: org-x
+    location: Alenquer
+    date_start: '2021-01-01'
+    date_end: 
+    description:  
+    
 design:
   columns: '1'
 ---
