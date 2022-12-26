@@ -25,7 +25,7 @@ date_format: 1:06
 item:
   - date_end: ''
     date_start: '2030-03-25'
-    description:  Localização: <a href="https://www.google.com/maps/place/Convento+e+Igreja+de+S%C3%A3o+Francisco/@39.0538397,-9.0123836,18.12z/data=!4m5!3m4!1s0xd18d9ffc4765c45:0x247319766d6b7083!8m2!3d39.0538259!4d-9.0122711">link</a>.
+    description:  Localização:<a href"https://www.google.com/maps/place/Convento+e+Igreja+de+S%C3%A3o+Francisco/@39.0538397,-9.0123836,18.12z/data=!4m5!3m4!1s0xd18d9ffc4765c45:0x247319766d6b7083!8m2!3d39.0538259!4d-9.0122711">link</a>.
     organization: Alenquer, Alenquer
     organization_url: 
     title: Igreja de São Francisco
