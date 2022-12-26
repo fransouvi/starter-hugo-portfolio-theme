@@ -29,8 +29,8 @@ experience:
     company_logo: ''
     # org-gc
     location: Alenquer
-#    date_start: '2021-01-01'
-#    date_end: ''
+    date_start: '15:30'
+    date_end: '16:30'
     description: 
 # |2-
 #        Responsibilities include:
@@ -45,8 +45,8 @@ experience:
     company_logo: ''
 # org-x
     location: California
-#    date_start: '2016-01-01'
-#    date_end: '2020-12-31'
+    date_start: '17:30'
+    date_end: '20:00'
     description: 
 # Taught electronic engineering and researched semiconductor physics.
 
