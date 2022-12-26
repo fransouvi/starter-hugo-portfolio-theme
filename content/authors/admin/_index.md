@@ -8,7 +8,7 @@ superuser: true
 status:
   ? icon
 social:
-  - icon: envelope
+  - icon: false
     icon_pack: far
     link: jhg
     label: "  "
