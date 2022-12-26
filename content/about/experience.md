@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-time_format: 04 15
+time_format: Jan 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -27,8 +27,8 @@ experience:
     company_url: ''
 #    company_logo: org-gc
     location: Alenquer
-    time_start: '15:30'
-    time_end: '16:30'
+    date_start: 
+    date_end: 
     description: 
 
 design:
