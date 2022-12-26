@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-time_format: 15 04
+time_format: 04 15
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -31,33 +31,6 @@ experience:
     time_end: '16:30'
     description: 
 
-  - title: Copo de água
-    company: Solar de Pancas
-    company_url: ''
-#    company_logo: org-x
-    location: Alenquer
-    time_start: '17:00'
-    time_end: '20:00'
-    description: 
-    
-  - title: Jantar
-    company: Solar de Pancas
-    company_url: ''
-#    company_logo: org-x
-    location: Alenquer
-    time_start: '20:00'
-    time_end: '22:30'
-    description: 
-    
-  - title: Festa!
-    company: Solar de Pancas
-    company_url: ''
-#    company_logo: org-x
-    location: Alenquer
-    time_start: '22:30'
-    time_end: 
-    description:  
-    
 design:
   columns: '1'
 ---
