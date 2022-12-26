@@ -54,8 +54,8 @@ experience:
     company_url: ''
 #    company_logo: org-x
     location: Alenquer
-    date_start: '22:30'
-    date_end: 
+    time_start: '22:30'
+    time_end: 
     description:  
     
 design:
