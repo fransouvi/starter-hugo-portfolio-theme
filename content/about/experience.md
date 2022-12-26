@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: 03 3 15 
+time_format: 03 3 15 
 # Jan 2006
 
 # Experiences.
@@ -29,8 +29,8 @@ experience:
     company_logo: ''
     # org-gc
     location: Alenquer
-    date_start: '15:30'
-    date_end: '16:30'
+    time_start: '15:30'
+    time_end: '16:30'
     description: 
 # |2-
 #        Responsibilities include:
@@ -45,8 +45,8 @@ experience:
     company_logo: ''
 # org-x
     location: California
-    date_start: '17:30'
-    date_end: '20:00'
+    time_start: '17:30'
+    time_end: '20:00'
     description: 
 # Taught electronic engineering and researched semiconductor physics.
 
