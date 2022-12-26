@@ -33,7 +33,7 @@ item:
     url: ''
   - date_end: ''
     date_start: '2000-05-01'
-    description: Link---.
+    description: Link---  <a href="https://www.worldscientific.com/doi/abs/10.1142/S0218202522500580">(Link)</a>.
     organization: Porto da Luz, Alenquer
     organization_url: 
     title: Solar de Pancas
