@@ -28,7 +28,7 @@ experience:
 #    company_logo: ''
 # org-gc
     location: Alenquer
-    date_start: 
+    date_start: Jan 2006
     date_end: 
     description: 
 # |2-
@@ -44,7 +44,7 @@ experience:
 #    company_logo: ''
 # org-x
     location: Alenquer
-    date_start: 
+    date_start: Jan 2006
     date_end: 
     description: 
 # Taught electronic engineering and researched semiconductor physics.
