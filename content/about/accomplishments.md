@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Locais'
 subtitle:
 
 # Date format
@@ -26,27 +26,19 @@ item:
   - certificate_url: https://www.coursera.org
     date_end: ''
     date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    description: Link---
+    organization: Alenquer, Alenquer
+    organization_url: 
+    title: Igreja de São Francisco
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://www.google.com/maps/place/Solar+de+Pancas/@39.0581939,-9.03528,16.26z/data=!4m5!3m4!1s0x0:0x4dcf9a97e6d77b56!8m2!3d39.0567442!4d-9.0330927
     date_end: ''
     date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    description: Link---.
+    organization: Porto da Luz, Alenquer
+    organization_url: 
+    title: Solar de Pancas
+    url: https://www.solardepancas.com/
 
 design:
   columns: '1'
