@@ -26,12 +26,12 @@ experience:
   - title: Casamento
     company: Igreja de São Francisco
     company_url: ''
-    company_logo: ''
-    # org-gc
+#    company_logo: ''
+# org-gc
     location: Alenquer
     time_start: '15:30'
     time_end: '16:30'
-    description: 
+    description: ''
 # |2-
 #        Responsibilities include:
 #        
@@ -42,12 +42,12 @@ experience:
   - title: Copo de água
     company: Solar de Pancas
     company_url: ''
-    company_logo: ''
+#    company_logo: ''
 # org-x
     location: California
     time_start: '17:30'
     time_end: '20:00'
-    description: 
+    description: ''
 # Taught electronic engineering and researched semiconductor physics.
 
 design:
